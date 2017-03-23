@@ -1,0 +1,24 @@
+[submodule "atsd-api-test"]
+	path = atsd-api-test
+	url = https://github.com/axibase/atsd-api-test.git
+[submodule "atsd-data-crawlers"]
+	path = atsd-data-crawlers
+	url = https://github.com/axibase/atsd-data-crawlers.git
+[submodule "atsd-api-java"]
+	path = atsd-api-java
+	url = https://github.com/axibase/atsd-api-java.git
+[submodule "atsd-api-nodejs"]
+	path = atsd-api-nodejs
+	url = https://github.com/axibase/atsd-api-nodejs.git
+[submodule "atsd-docs"]
+	path = atsd-docs
+	url = https://github.com/axibase/atsd-docs
+[submodule "nodejs-dataslider"]
+	path = nodejs-dataslider
+	url = https://github.com/axibase/nodejs-dataslider.git
+[submodule "jmeter-time-window-backend-listener"]
+	path = jmeter-time-window-backend-listener
+	url = https://github.com/axibase/jmeter-time-window-backend-listener.git
+[submodule "grafana-data-source"]
+	path = grafana-data-source
+	url = https://github.com/axibase/grafana-data-source
